@@ -1,3 +1,4 @@
+package DFA;
 import java.util.*;
 
 public class dfa {
